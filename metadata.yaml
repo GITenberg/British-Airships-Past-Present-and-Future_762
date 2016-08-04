@@ -1,0 +1,23 @@
+_repo: British-Airships-Past-Present-and-Future_762
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whale, George
+    gutenberg_agent_id: '398'
+    url: http://www.gutenberg.org/2009/agents/398
+description: ''
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aircraft'
+- !lcsh 'Airships -- Britain -- History'
+- !lcc 'TL'
+- GITenberg
+title: British Airships, Past, Present, and Future
+url: http://www.gutenberg.org/ebooks/762
