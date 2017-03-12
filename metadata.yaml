@@ -1,11 +1,16 @@
 _repo: British-Airships-Past-Present-and-Future_762
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Whale, George
     gutenberg_agent_id: '398'
     url: http://www.gutenberg.org/2009/agents/398
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/762#British-Airships-Past-Present-and-Future
 gutenberg_issued: '1996-12-01'
 gutenberg_type: Text
 identifiers:
